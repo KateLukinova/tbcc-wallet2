@@ -367,9 +367,9 @@ a.m-btn, button.m-btn {
   .main-page .link-box {
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex; }
+    display: flex;
+    margin-top: 40px; }
     .main-page .link-box a {
-      width: 30%;
       margin-right: 8px;
       max-width: 135px; }
       .main-page .link-box a img {
@@ -426,6 +426,19 @@ a.m-btn, button.m-btn {
   max-width: 570px; }
 .min-text p {
   max-width: 570px; }
+
+.bg-img {
+  background-image: url("../img/bg-img.svg");
+  background-repeat: no-repeat;
+  background-size: auto 800px;
+  background-position: top; }
+
+.main-products {
+  max-height: 800px;
+  min-height: auto;
+  height: 800px; }
+  .main-products p {
+    max-width: 768px; }
 
 .advantages-block {
   width: 100%;
@@ -494,10 +507,10 @@ a.m-btn, button.m-btn {
         margin-left: 40px; }
       .two-block .column .img img {
         width: 100%;
-        max-width: 300px; }
+        max-width: 350px; }
     .two-block .column .text {
       width: 100%;
-      padding-right: 35px; }
+      padding-right: 50px; }
     .two-block .column.w-60 {
       width: 60%; }
     .two-block .column.w-40 {
@@ -517,6 +530,10 @@ a.m-btn, button.m-btn {
   color: black; }
   .caption.white {
     color: white; }
+
+.center-block .products-img {
+  max-width: 1160px;
+  margin-top: 100px; }
 
 .police-page {
   padding-bottom: 200px; }
@@ -1204,7 +1221,7 @@ ul li {
         justify-content: center;
         align-items: center; }
         .two-block .column .img.mobile-ml img {
-          margin-left: 30px; }
+          margin-left: 70px; }
       .two-block .column .text {
         padding-right: 0; }
         .two-block .column .text h2 {
@@ -1345,8 +1362,7 @@ ul li {
     -ms-flex-align: center;
     align-items: center; }
     .main-page .link-box a {
-      margin: 10px auto;
-      width: 70%; }
+      margin: auto; }
   .main-page h2 {
     font-size: 16px; }
 
@@ -1391,6 +1407,14 @@ ul li {
     width: 100%; }
 
   .two-block {
-    padding: 0; } }
+    padding: 0; }
+
+  .bg-img {
+    background-size: auto 80vh; }
+
+  .main-products {
+    height: 650px; }
+    .main-products .center-block {
+      margin-top: 40px; } }
 
 /*# sourceMappingURL=style.css.map */

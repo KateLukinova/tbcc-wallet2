@@ -90,6 +90,7 @@ $( document ).ready(function() {
             textButtonTwo: 'Download now',
             textButtonThree: 'Try it now',
             textButtonFour: 'Try it now',
+            textButtonFive: 'Get it now',
             mainCaptionFour: 'Decentralized trading',
             mainPBlockThree: 'The wallet works smoothly with the Binance DEX protocols, which allows you to make instant transactions on a decentralized exchange.',
             mainCaptionFive: 'Simple Exchange',
@@ -128,15 +129,22 @@ $( document ).ready(function() {
             priceText: 'Price',
             volumeText: '24h Volume',
             globalRankText: 'Global Rank (protocol BEP8)',
-            howH1: 'How to use TBCC VPN?',
-            howH2: 'To start using TBCC VPN you need to do just 2 steps',
-            howPBlockOne: 'To begin working with TBCC VPN you have to download the app (currently available for Android only)',
-            howPBlockTwo: 'To activate VPN app you need to have VPN key.',
-            howCaptionOne: 'How to get TBCC VPN key?',
-            howPBlockThree: 'It’s quite simple. You have to download TBCC Wallet mobile app and buy a key with VTBC token.',
-            howPBlockFour: 'VTBC tokens can be changed on Binance DEX in pair VTBC/BNB or in TBCC Wallet app on your mobile phone.',
+            productsH1: 'Full service wallet',
+            productsH2: 'Now you no longer need to look for additional applications. Now you no longer need to look for additional applications. Find all needed services in one place',
+            productsPBlockOne: 'Buy and sell cryptocurrency from any place in the world in several seconds with maximum comfort for you.',
+            productsPBlockTwo: 'Send and receive crypto safely to other addresses without extra commission from wallet.',
+            productsCaptionOne: 'Exchange. Anywhere. Anytime.',
+            productsCaptionTwo: 'Send & Receive',
+            productsCaptionThree: 'Trade on Binance DEX',
+            productsCaptionFour: 'TBCC Wallet Market',
+            productsCaptionFive: 'Available types of payments',
+            productsCaptionSix: 'Contactless payments',
+            productsCaptionSeven: 'QR-Code payments',
+            productsPBlockThree: 'Trade on Binance DEX from TBCC Wallet in real time with easy-to-use interface.',
+            productsPBlockFour: 'Via market you can buy keys for your TBCC VPN app, premium subscription, make online payments in partner stores via TBCC card',
+            productsPBlockFive: 'Accept crypto payments and donations from your online customers.',
+            productsPBlockSix: ' Accept Coins on your smartphone or tablet at your retail store or restaurant.',
             key: 'VPN key ',
-            howPBlockFive: 'Note: you need to have Binance Coin (BNB) on your balance. One key is available for one year.',
             aboutH1: 'About TBCC VPN',
             aboutH2: 'TBCC VPN is one of the services that is provided to users by TBCC Labs. The mission of TBCC VPN is to provide safe and fast internet connection without any logs, spy or selling data. We want to help our users to forget about cyber borders, without compromising the safety of data. Our priority is to make all your transactions fast and secure.',
             globalServers: 'Global servers',
@@ -184,6 +192,7 @@ $( document ).ready(function() {
             textButtonTwo: 'Загрузить сейчас',
             textButtonThree: 'Начать работу',
             textButtonFour: 'Начать работу',
+            textButtonFive: 'Установить сейчас',
             mainCaptionFour: 'Децентрализованная торговля',
             mainPBlockThree: 'Кошелек бесперебойно работает с протоколами Binance DEX, что позволяет совершать мгновенные транзакции или делать оперативные торги на децентрализованной бирже.',
             mainCaptionFive: 'Простой обмен',
@@ -222,13 +231,21 @@ $( document ).ready(function() {
             priceText: 'Цена',
             volumeText: '24 часовой объем',
             globalRankText: 'Мировой рейтинг (среди протокола BEP8)',
-            howH1: 'Как использовать TBCC VPN?',
-            howH2: 'Для того, чтобы начать использование TBCC VPN вам необходимо сделать всего 2 шага',
-            howPBlockOne: 'Для начала работы с приложением TBCC VPN вам нужно установить мобильное приложение (временно доступно только приложение для Android)',
-            howPBlockTwo: 'Для того, чтобы активировать VPN приложение вам необходимо иметь VPN ключ',
-            howCaptionOne: 'Как получить ключ для TBCC VPN?',
-            howPBlockThree: 'Это достаточно просто. Вам необходимо установить мобильное приложение TBCC Wallet и купить ключ при помощи VTBC токенов. Войти в кошелек',
-            howPBlockFour: 'Токены VTBC можно получить на бирже Binance DEX в паре VTBC/BNB или в приложении TBCC Wallet на вашем мобильном телефоне',
+            productsH1: 'Кошелек с полным набором услуг',
+            productsH2: 'Теперь Вам больше не нужно искать дополнительные приложения. Найдите все необходимые услуги в одном месте.',
+            productsPBlockOne: 'Покупайте и продавайте криптовалюту из любой точки мира за несколько секунд с максимальным комфортом для Вас.',
+            productsPBlockTwo: 'Отправляйте и получайте криптовалюту безопасно на другие адреса без дополнительной комиссии со стороны кошелька.',
+            productsCaptionOne: 'Совершайте обмен. В любом месте. В любое время.',
+            productsCaptionTwo: 'Отправляйте и Получайте',
+            productsCaptionThree: 'Совершайте торги на BINANCE DEX',
+            productsCaptionFour: 'TBCC Wallet Маркет',
+            productsCaptionFive: 'Доступные типы платежей',
+            productsCaptionSix: 'Бесконтактные платежи',
+            productsCaptionSeven: 'Платежи по QR-коду',
+            productsPBlockThree: 'Осуществляйте торги на Binance DEX из приложения TBCC Wallet в реальном времени с помощью удобного интерфейса',
+            productsPBlockFour: 'При помощи Маркета Вы можете купить ключи для своего TBCC VPN приложения, премиум-подписку, совершать онлайн-платежи в магазинах-партнерах с помощью карты TBCC.',
+            productsPBlockFive: 'Принимайте криптовалютные платежи и пожертвования от ваших онлайн-клиентов.',
+            productsPBlockSix: 'Принимайте токены на свой смартфон или планшет в розничном магазине или ресторане',
             key: 'VPN ключ ',
             howPBlockFive: 'Внимание: вам необходимо иметь Binance Coin (BNB) на вашем балансе',
             aboutH1: 'О TBCC VPN',
@@ -316,6 +333,7 @@ function setLanguage(dictionary, language)
     $('#textButtonTwo').text(dictionary[language].textButtonTwo);
     $('#textButtonThree').text(dictionary[language].textButtonTwo);
     $('#textButtonFour').text(dictionary[language].textButtonFour);
+    $('#textButtonFive').text(dictionary[language].textButtonFive);
     $('#mainPBlockThree').text(dictionary[language].mainPBlockThree);
     $('#mainPBlockFour').text(dictionary[language].mainPBlockFour);
     $('#mainH5One').text(dictionary[language].mainH5One);
@@ -347,13 +365,21 @@ function setLanguage(dictionary, language)
     $('#priceText').text(dictionary[language].priceText);
     $('#volumeText').text(dictionary[language].volumeText);
     $('#globalRankText').text(dictionary[language].globalRankText);
-    $('#howH1').text(dictionary[language].howH1);
-    $('#howH2').text(dictionary[language].howH2);
-    $('#howPBlockOne').text(dictionary[language].howPBlockOne);
-    $('#howPBlockTwo').text(dictionary[language].howPBlockTwo);
-    $('#howCaptionOne').text(dictionary[language].howCaptionOne);
-    $('#howPBlockThree').text(dictionary[language].howPBlockThree);
-    $('#howPBlockFour').text(dictionary[language].howPBlockFour);
+    $('#productsH1').text(dictionary[language].productsH1);
+    $('#productsH2').text(dictionary[language].productsH2);
+    $('#productsPBlockOne').text(dictionary[language].productsPBlockOne);
+    $('#productsPBlockTwo').text(dictionary[language].productsPBlockTwo);
+    $('#productsCaptionOne').text(dictionary[language].productsCaptionOne);
+    $('#productsCaptionTwo').text(dictionary[language].productsCaptionTwo);
+    $('#productsCaptionThree').text(dictionary[language].productsCaptionThree);
+    $('#productsCaptionFour').text(dictionary[language].productsCaptionFour);
+    $('#productsCaptionFive').text(dictionary[language].productsCaptionFive);
+    $('#productsCaptionSix').text(dictionary[language].productsCaptionSix);
+    $('#productsCaptionSeven').text(dictionary[language].productsCaptionSeven);
+    $('#productsPBlockThree').text(dictionary[language].productsPBlockThree);
+    $('#productsPBlockFour').text(dictionary[language].productsPBlockFour);
+    $('#productsPBlockFive').text(dictionary[language].productsPBlockFive);
+    $('#productsPBlockSix').text(dictionary[language].productsPBlockSix);
     $('#key').text(dictionary[language].key);
     $('#howPBlockFive').text(dictionary[language].howPBlockFive);
     $('#aboutH1').text(dictionary[language].aboutH1);
