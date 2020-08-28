@@ -159,6 +159,8 @@ $( document ).ready(function() {
             aboutItemThree: 'Trusted',
             aboutItemFour: 'Modern',
             aboutItemFive: 'Convinient',
+            teamCaptionOne: 'We are TBCC Wallet',
+            teamPBlockOne: 'TBCC Wallet is a blockchain wallet for everyone. Our mission is to make your work with crypto assets easy, convinient, safe and understandable. We are always in a search for new services to make the app better for you to use.',
         },
         RU: {
             menuItemOne: 'Продукты',
@@ -258,6 +260,8 @@ $( document ).ready(function() {
             aboutItemThree: 'Надежный',
             aboutItemFour: 'Современный',
             aboutItemFive: 'Удобный',
+            teamCaptionOne: 'Мы - это TBCC Wallet',
+            teamPBlockOne: 'TBCC Wallet - это блокчейн кошелек для всех. Наша миссия - сделать Вашу работу с криптоактивами простой, удобной, безопасной и понятной. Мы всегда находимся в поиске новых услуг, чтобы сделать приложение более удобным для Вас.',
         }
     }
 
@@ -385,4 +389,6 @@ function setLanguage(dictionary, language)
     $('#aboutItemThree').text(dictionary[language].aboutItemThree);
     $('#aboutItemFour').text(dictionary[language].aboutItemFour);
     $('#aboutItemFive').text(dictionary[language].aboutItemFive);
+    $('#teamCaptionOne').text(dictionary[language].teamCaptionOne);
+    $('#teamPBlockOne').text(dictionary[language].teamPBlockOne);
 }
