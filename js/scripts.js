@@ -125,10 +125,10 @@ $( document ).ready(function() {
             tokenPItemTwo: 'With VTBC token you can trade on Binance DEX',
             tokenPItemThree: 'AirDrop — share your VTBC token via AirDrop',
             tokenCaptionThree: 'VTBC Market perfomance',
-            totalMarketCap: 'Total Market Cap',
-            priceText: 'Price',
-            volumeText: '24h Volume',
-            globalRankText: 'Global Rank (protocol BEP8)',
+            foundedIn: 'Founded in',
+            numberOfUsers: 'Number of users',
+            tbccCoin: 'TBCC coin purchases',
+            digitalAssets: 'Digital assets',
             productsH1: 'Full service wallet',
             productsH2: 'Now you no longer need to look for additional applications. Now you no longer need to look for additional applications. Find all needed services in one place',
             productsPBlockOne: 'Buy and sell cryptocurrency from any place in the world in several seconds with maximum comfort for you.',
@@ -145,25 +145,20 @@ $( document ).ready(function() {
             productsPBlockFive: 'Accept crypto payments and donations from your online customers.',
             productsPBlockSix: ' Accept Coins on your smartphone or tablet at your retail store or restaurant.',
             key: 'VPN key ',
-            aboutH1: 'About TBCC VPN',
+            aboutH1: 'TBCC Wallet assists people to control and manage their wealth',
             aboutH2: 'TBCC VPN is one of the services that is provided to users by TBCC Labs. The mission of TBCC VPN is to provide safe and fast internet connection without any logs, spy or selling data. We want to help our users to forget about cyber borders, without compromising the safety of data. Our priority is to make all your transactions fast and secure.',
             globalServers: 'Global servers',
-            aboutPBlockOne: 'We don’t use servers as ordinary VPN services do. TBCC VPN is totally decentralized. You can be in any place in the world and use our VPN, your location doesn\'t matter.',
-            aboutCaptionOne: 'Unlike other VPN, TBCC VPN has such distinctive features as:',
-            aboutUlBlockOne: 'IP Blacklisting',
-            aboutUlBlockTwo: ' QoS Guarantees',
-            aboutUlBlockThree: 'No Logging – you have no need to provide your ID to the service;',
-            aboutUlBlockFour: 'Internal VPN stock',
-            aboutUlBlockFive: 'Variable encryption',
+            aboutPBlockOne: 'At TBCC Wallet we pay attention to every detail, from pixel-perfect icons to full services, creating a cryptocurrency app that will fit everyone.',
+            aboutCaptionOne: 'Buy, Trade, Manage, and Exchange cryptocurrency on your mobile phone in any time',
             keyBenefits: 'Key benefits',
-            aboutCaptionTwo: 'Why TBCC VPN is better?',
-            aboutPBlockTwo: 'TBCC VPN is much safer than other VPNs because it implements original cryptography, unlike other VPNs. The connection of the Internet will be extremely fast – you have no need to worry that you won’t succeed to do an immediate purchase on Binance DEX. Also, TBCC VPN has and easy-to-use interface. We provide you with totally anonymous app, that will never provide information upon your transactions and data.',
-            aboutH3One: 'Shielded and widened internet surfing',
-            aboutH3Two: 'Totally anonymous',
-            aboutH3Three: 'Decentralized',
-            aboutPBlockThree: 'With TBCC VPN, you are fully protected from tracking and monitoring. You can work in the Internet, watch videos, use any app.',
-            aboutPBlockFour: 'TBCC VPN protects you from the undesired attention from spy websites and annoying advertisers. No problems with visiting websites – your real IP will never be flagged on the Internet.',
-            aboutPBlockFive: 'TBCC VPN is based on the decentralized Cellframe blockchain platform. Decentralization allows you to be independent of servers location and your connection is as fast as possible!'
+            aboutCaptionTwo: 'Our key features',
+            aboutPBlockTwo: 'Our goal is to make it fun and easy to learn, understand and use cryptocurrency.',
+            aboutPBlockThree: 'No trivial outdated terms, that are hard to understand. No confusing steps — we think of comfort that you should have while using the app.',
+            aboutItemOne: 'Safe',
+            aboutItemTwo: 'Reliable',
+            aboutItemThree: 'Trusted',
+            aboutItemFour: 'Modern',
+            aboutItemFive: 'Convinient',
         },
         RU: {
             menuItemOne: 'Продукты',
@@ -227,10 +222,10 @@ $( document ).ready(function() {
             tokenPItemTwo: 'С VTBC token вы можете торговать на бирже Binance DEX',
             tokenPItemThree: 'Получайте VTBC token через AirDrop',
             tokenCaptionThree: 'Рыночные данные о VTBC',
-            totalMarketCap: 'Общая рыночная капитализация',
-            priceText: 'Цена',
-            volumeText: '24 часовой объем',
-            globalRankText: 'Мировой рейтинг (среди протокола BEP8)',
+            foundedIn: 'Основан в',
+            numberOfUsers: 'Количество пользователей',
+            tbccCoin: 'Количество покупок TBCC Coin',
+            digitalAssets: 'Цифровые активы',
             productsH1: 'Кошелек с полным набором услуг',
             productsH2: 'Теперь Вам больше не нужно искать дополнительные приложения. Найдите все необходимые услуги в одном месте.',
             productsPBlockOne: 'Покупайте и продавайте криптовалюту из любой точки мира за несколько секунд с максимальным комфортом для Вас.',
@@ -248,25 +243,21 @@ $( document ).ready(function() {
             productsPBlockSix: 'Принимайте токены на свой смартфон или планшет в розничном магазине или ресторане',
             key: 'VPN ключ ',
             howPBlockFive: 'Внимание: вам необходимо иметь Binance Coin (BNB) на вашем балансе',
-            aboutH1: 'О TBCC VPN',
-            aboutH2: 'TBCC VPN является одним из сервисов, предоставляемых пользователям компанией TBCC Labs. Миссия TBCC VPN - обеспечить безопасное и быстрое подключение к Интернету без каких-либо лагов, шпионажа или продажи данных. Мы хотим помочь нашим пользователям забыть о кибер-границах, не ставя при этом под угрозу безопасность данных. Наш приоритет - сделать все ваши транзакции быстрыми и безопасными.',
-            globalServers: 'Международные серверы',
-            aboutPBlockOne: 'Мы не используем серверы, как обычные VPN-сервисы. TBCC VPN полностью децентрализован. Вы можете быть в любой точке мира и использовать наш VPN, ваше местоположение не имеет значения.',
-            aboutCaptionOne: 'В отличии от других VPN сервисов TBCC VPN имеет следующие отличительные характеристики:',
-            aboutUlBlockOne: 'IP Blacklisting (черный список IP);',
-            aboutUlBlockTwo: 'QoS гарантии;',
-            aboutUlBlockThree: 'Никаких логинов– вам не нужно предоставлять ваши персональные данные для пользования сервисом',
-            aboutUlBlockFour: 'Внутренний VPN сток',
-            aboutUlBlockFive: 'Переменное шифрование.',
+            aboutH1: 'TBCC Wallet помогает людям контролировать свое состояние и управлять им',
+            aboutPBlockOne: 'В TBCC Wallet мы уделяем внимание каждой детали, от идеальных пиксельных иконок до готовых услуг, создавая криптовалютное приложение, которое будет удобно каждому.',
+            aboutCaptionOne: 'Покупайте, участвуйте в торгах, управляйте и обменивайте криптовалюту на своем мобильном телефоне в любое время',
             keyBenefits: 'Основные преимущества',
-            aboutCaptionTwo: 'Почему TBCC VPN лучше других?',
-            aboutPBlockTwo: 'TBCC VPN намного безопаснее, чем другие VPN, потому что мы используем оригинальную криптографию, в отличие от других VPN. Подключение к Интернету будет очень быстрым - вам не нужно беспокоиться о том, что вам не удастся совершить мгновенную покупку на Binance DEX. Кроме того, TBCC VPN имеет простой и легкий в использовании интерфейс. Мы предоставляем вам абсолютно анонимное приложение, которое никогда не предоставит информацию о ваших транзакциях и данных.',
+            aboutCaptionTwo: 'Наши ключевые особенности',
+            aboutPBlockTwo: 'Наша цель - сделать обучение, понимание и использование криптовалюты интересным и простым',
             aboutH3One: 'Расширенный интернет-серфинг',
             aboutH3Two: 'Полностью анонимный',
             aboutH3Three: 'Децентрализованный',
-            aboutPBlockThree: 'С TBCC VPN вы полностью защищены от отслеживания и мониторинга. Вы можете работать в Интернете, смотреть видео, использовать любые приложения.',
-            aboutPBlockFour: 'TBCC VPN защищает вас от нежелательного внимания со стороны шпионских сайтов и раздражающих рекламодателей. Никаких проблем с посещением веб-сайтов - ваш реальный IP никогда не будет заметен в Интернете.',
-            aboutPBlockFive: 'TBCC VPN основан на децентрализованной платформе блокчейна Cellframe. Децентрализация позволяет вам быть независимым от расположения серверов, и ваше соединение будет максимально быстрым!'
+            aboutPBlockThree: 'Никаких тривиальных устаревших терминов, которые сложно понять. Никаких запутанных шагов - мы думаем о комфорте, который должен быть у Вас при использовании приложения.',
+            aboutItemOne: 'Безопасный',
+            aboutItemTwo: 'Заслуживающий доверия',
+            aboutItemThree: 'Надежный',
+            aboutItemFour: 'Современный',
+            aboutItemFive: 'Удобный',
         }
     }
 
@@ -361,10 +352,10 @@ function setLanguage(dictionary, language)
     $('#tokenPItemTwo').text(dictionary[language].tokenPItemTwo);
     $('#tokenPItemThree').text(dictionary[language].tokenPItemThree);
     $('#tokenCaptionThree').text(dictionary[language].tokenCaptionThree);
-    $('#totalMarketCap').text(dictionary[language].totalMarketCap);
-    $('#priceText').text(dictionary[language].priceText);
-    $('#volumeText').text(dictionary[language].volumeText);
-    $('#globalRankText').text(dictionary[language].globalRankText);
+    $('#foundedIn').text(dictionary[language].foundedIn);
+    $('#numberOfUsers').text(dictionary[language].numberOfUsers);
+    $('#tbccCoin').text(dictionary[language].tbccCoin);
+    $('#digitalAssets').text(dictionary[language].digitalAssets);
     $('#productsH1').text(dictionary[language].productsH1);
     $('#productsH2').text(dictionary[language].productsH2);
     $('#productsPBlockOne').text(dictionary[language].productsPBlockOne);
@@ -381,24 +372,17 @@ function setLanguage(dictionary, language)
     $('#productsPBlockFive').text(dictionary[language].productsPBlockFive);
     $('#productsPBlockSix').text(dictionary[language].productsPBlockSix);
     $('#key').text(dictionary[language].key);
-    $('#howPBlockFive').text(dictionary[language].howPBlockFive);
     $('#aboutH1').text(dictionary[language].aboutH1);
-    $('#aboutH2').text(dictionary[language].aboutH2);
-    $('#globalServers').text(dictionary[language].globalServers);
     $('#aboutPBlockOne').text(dictionary[language].aboutPBlockOne);
     $('#aboutCaptionOne').text(dictionary[language].aboutCaptionOne);
     $('#aboutUlBlockOne').text(dictionary[language].aboutUlBlockOne);
-    $('#aboutUlBlockTwo').text(dictionary[language].aboutUlBlockTwo);
-    $('#aboutUlBlockThree').text(dictionary[language].aboutUlBlockThree);
-    $('#aboutUlBlockFour').text(dictionary[language].aboutUlBlockFour);
-    $('#aboutUlBlockFive').text(dictionary[language].aboutUlBlockFive);
     $('#keyBenefits').text(dictionary[language].keyBenefits);
     $('#aboutCaptionTwo').text(dictionary[language].aboutCaptionTwo);
     $('#aboutPBlockTwo').text(dictionary[language].aboutPBlockTwo);
-    $('#aboutH3One').text(dictionary[language].aboutH3One);
-    $('#aboutH3Two').text(dictionary[language].aboutH3Two);
-    $('#aboutH3Three').text(dictionary[language].aboutH3Three);
     $('#aboutPBlockThree').text(dictionary[language].aboutPBlockThree);
-    $('#aboutPBlockFour').text(dictionary[language].aboutPBlockFour);
-    $('#aboutPBlockFive').text(dictionary[language].aboutPBlockFive);
+    $('#aboutItemOne').text(dictionary[language].aboutItemOne);
+    $('#aboutItemTwo').text(dictionary[language].aboutItemTwo);
+    $('#aboutItemThree').text(dictionary[language].aboutItemThree);
+    $('#aboutItemFour').text(dictionary[language].aboutItemFour);
+    $('#aboutItemFive').text(dictionary[language].aboutItemFive);
 }

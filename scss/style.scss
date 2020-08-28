@@ -559,12 +559,13 @@ a.m-btn, button.m-btn {
     .rules-item {
         display: flex;
         align-items: center;
-        font-family: 'Gilroy', sans-serif;
+        font-family: 'Gilroy-Medium', sans-serif;
         font-size: 24px;
         line-height: 1.5;
         letter-spacing: 0.15px;
         color: #000000;
         width: max-content;
+        white-space: nowrap;
         img {
             margin-right: 10px;
         }
@@ -989,7 +990,7 @@ ul li {
 
 
 .values {
-    width: 90%;
+    width: 100%;
     max-width: 1160px;
     margin: auto;
     padding: 80px 0;
@@ -1030,7 +1031,29 @@ ul li {
     p {
         font-size: 16px;
     }
-
+    &.item-4 {
+        width: 25%;
+        p {
+            font-size: 20px;
+        }
+        span {
+            font-family: 'Gilroy-Bold', sans-serif;
+            font-size: 36px;
+            line-height: 1.5;
+            letter-spacing: 0.15px;
+            color: rgba(0, 0, 0, 0.87);
+            position: relative;
+            &:after {
+                content: '';
+                position: absolute;
+                left: 0;
+                bottom: -8px;
+                width: 100%;
+                height: 4px;
+                background: #17CFA1;
+            }
+        }
+    }
 }
 
 .bg-color-dark {
@@ -1179,6 +1202,16 @@ ul li {
 
 .text-w-number__link {
     margin-left: 50px;
+}
+
+.check-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 16px;
+    img {
+        margin-right: 16px;
+        margin-top: 6px;
+    }
 }
 
 @media (max-width: 1200px) {
@@ -1738,6 +1771,9 @@ ul li {
             margin-top: 40px;
         }
     }
-
+    
+    .values-item.item-4 {
+        width: 90%;
+    }
 
 }
