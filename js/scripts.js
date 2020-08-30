@@ -158,6 +158,14 @@ $( document ).ready(function() {
             aboutItemFive: 'Convinient',
             teamCaptionOne: 'We are TBCC Wallet',
             teamPBlockOne: 'TBCC Wallet is a blockchain wallet for everyone. Our mission is to make your work with crypto assets easy, convinient, safe and understandable. We are always in a search for new services to make the app better for you to use.',
+            contactsCaptionOne: 'Contact Us',
+            contactsPBlockOne: 'Fill in the form if you want to contact us',
+            contactFormFName: 'First Name',
+            contactFormLName: 'Last Name',
+            contactFormEmail: 'Email',
+            contactFormTopic: 'Topic',
+            contactFormMessage: 'Message',
+            contactsButton: 'Send'
         },
         RU: {
             menuItemOne: 'Продукты',
@@ -254,6 +262,14 @@ $( document ).ready(function() {
             aboutItemFive: 'Удобный',
             teamCaptionOne: 'Мы - это TBCC Wallet',
             teamPBlockOne: 'TBCC Wallet - это блокчейн кошелек для всех. Наша миссия - сделать Вашу работу с криптоактивами простой, удобной, безопасной и понятной. Мы всегда находимся в поиске новых услуг, чтобы сделать приложение более удобным для Вас.',
+            contactsCaptionOne: 'Свяжитесь с нами',
+            contactsPBlockOne: 'Заполните форму ниже, если у вас есть вопросы и предложения',
+            contactFormFName: 'Имя',
+            contactFormLName: 'Фамилия',
+            contactFormEmail: 'Электронный адрес',
+            contactFormTopic: 'Тема',
+            contactFormMessage: 'Ваше сообщение',
+            contactsButton: 'Отправить',
         }
     }
 
@@ -386,4 +402,13 @@ function setLanguage(dictionary, language)
     $('#aboutItemFive').text(dictionary[language].aboutItemFive);
     $('#teamCaptionOne').text(dictionary[language].teamCaptionOne);
     $('#teamPBlockOne').text(dictionary[language].teamPBlockOne);
+    $('#contactsCaptionOne').text(dictionary[language].contactsCaptionOne);
+    $('#contactsPBlockOne').text(dictionary[language].contactsPBlockOne);
+    $('#contact-form-f-name').attr('placeholder', dictionary[language].contactFormFName);
+    $('#contact-form-l-name').attr('placeholder', dictionary[language].contactFormLName);
+    $('#contact-form-topic').attr('placeholder', dictionary[language].contactFormTopic);
+    $('#contact-form-message').text(dictionary[language].contactFormMessage);
+    $('#contact-form-email').attr('placeholder', dictionary[language].contactFormEmail);
+    $('#contacts-button').text(dictionary[language].contactsButton);
+
 }
