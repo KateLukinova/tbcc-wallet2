@@ -176,6 +176,12 @@ a.m-btn, button.m-btn {
   color: white;
   position: relative;
   margin-top: 40px; }
+  a.m-btn.tbcc, button.m-btn.tbcc {
+    background: linear-gradient(90deg, #30AD8E -4.55%, #6ADFBE 104.55%); }
+  a.m-btn.vtbc, button.m-btn.vtbc {
+    background: linear-gradient(90.19deg, #00F5A0 -30.65%, #00D9F5 50.04%); }
+  a.m-btn.vote, button.m-btn.vote {
+    background: linear-gradient(244.89deg, #00C6FF 0.13%, #0072FF 89.01%); }
 
 .gal {
   margin-bottom: 20px;
@@ -1551,6 +1557,9 @@ ul li {
     width: 46%; }
 
   .team-box .team__item:nth-child(2n) {
-    margin-top: 0; } }
+    margin-top: 0; }
+
+  .main-page .center-block h1 {
+    font-size: 26px; } }
 
 /*# sourceMappingURL=style.css.map */

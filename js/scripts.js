@@ -91,6 +91,9 @@ $( document ).ready(function() {
             textButtonThree: 'Try it now',
             textButtonFour: 'Try it now',
             textButtonFive: 'Get it now',
+            textButtonSix: 'Buy',
+            textButtonSeven: 'Buy',
+            textButtonEight: 'Buy',
             mainCaptionFour: 'Decentralized trading',
             mainPBlockThree: 'The wallet works smoothly with the Binance DEX protocols, which allows you to make instant transactions on a decentralized exchange.',
             mainCaptionFive: 'Simple Exchange',
@@ -113,18 +116,12 @@ $( document ).ready(function() {
             footerItemFour: 'Terms of use',
             footerItemFive: 'Privacy Policy',
             footerItemSix: 'Complete description of services offered',
-            tokenH1: 'What is VTBC?',
-            tokenH2: ' VTBC token is the new digital asset that is released by TBCC VPN. It is fully decentralized and can be traded on Binance DEX with pair of BNB. VTBC is available on Binance Chain platform.',
-            tokenCaptionOne: 'VTBC - new token on blockchain',
-            tokenUlBlockOne: 'Afordable price',
-            tokenUlBlockTwo: 'Fixed quantity with 1.000.000 token',
-            tokenUlBlockThree: 'Works seamlessly with new BEP8 protocol',
-            tokenUlBlockFour: 'Available for buying on Binance DEX or via TBCC Wallet',
-            tokenCaptionTwo: 'Usage of VTBC',
-            tokenPItemOne: 'Pay for your VPN keys to activate the TBCC VPN app',
-            tokenPItemTwo: 'With VTBC token you can trade on Binance DEX',
-            tokenPItemThree: 'AirDrop — share your VTBC token via AirDrop',
-            tokenCaptionThree: 'VTBC Market perfomance',
+            tokenH1: 'Start to invest in TBCC Labs tokens and earn on it',
+            tokenH2: 'Try our own tokens and learn its potential. You can buy them via TBCC Wallet app or through Binance DEX',
+            tokenCaptionOne: 'Trade on Binance DEX',
+            tokenPBlockOne: 'With TBCС (TBC), you can pay for products in partner stores, trade it on DEX, use it collateral on lending platforms, as well as in loyalty programs and voting. TBCC (TBC) works with BEP 2 protocol on Binance DEX.',
+            tokenPBlockTwo: 'VTBC token is the new digital asset that is released by TBCC VPN. With VTBC token you can trade on Binance DEX in pair with BNB, use it to buy VPN key (to use the TBCC VPN app) and also receive it via AirDrop. It works smoothly with BEP 8 protocols on Binance DEX.',
+            tokenPBlockThree: 'The main mission of VOTE mini token is to give users an opportunity of participating in voting. The mechanism of VOTE mini token usage is quite simple — when the voting is open, you need to open the official website with it and give your vote “for” or “against” with VOTE mini token.',
             foundedIn: 'Founded in',
             numberOfUsers: 'Number of users',
             tbccCoin: 'TBCC coin purchases',
@@ -190,6 +187,9 @@ $( document ).ready(function() {
             textButtonThree: 'Начать работу',
             textButtonFour: 'Начать работу',
             textButtonFive: 'Установить сейчас',
+            textButtonSix: 'Купить',
+            textButtonSeven: 'Купить',
+            textButtonEight: 'Купить',
             mainCaptionFour: 'Децентрализованная торговля',
             mainPBlockThree: 'Кошелек бесперебойно работает с протоколами Binance DEX, что позволяет совершать мгновенные транзакции или делать оперативные торги на децентрализованной бирже.',
             mainCaptionFive: 'Простой обмен',
@@ -212,18 +212,12 @@ $( document ).ready(function() {
             footerItemFour: 'Правила использования',
             footerItemFive: 'Политика конфиденциальности',
             footerItemSix: 'Полное описание предлагаемых сервисов',
-            tokenH1: 'Что такое VTBC?',
-            tokenH2: 'VTBC токен это новый вид цифровых активов, выпущенный сервисом TBCC VPN. Он полностью децентрализован и может торговаться на Binance DEX в паре с BNB. VTBC доступен на платформе Binance Chain.',
+            tokenH1: 'Начните инвестировать в токены, выпущенные TBCC Labs и зарабатывайте на этом',
+            tokenH2: 'Попробуйте использовать наши собственные токены и узнайте их потенциал. Вы можете купить их через приложение TBCC Wallet или через Binance DEX.',
             tokenCaptionOne: 'VTBC - новый токен в блокчейн',
-            tokenUlBlockOne: 'Доступная цена',
-            tokenUlBlockTwo: 'Фиксированное количество в 1.000.000 токенов',
-            tokenUlBlockThree: 'Работает бесперебойно с новым BEP8 протоколом',
-            tokenUlBlockFour: 'Доступен для покупки на бирже Binance DEX или через TBCC Wallet',
-            tokenCaptionTwo: 'Использование VTBC',
-            tokenPItemOne: 'Оплачивайте VPN ключи для активации приложения TBCC VPN ',
-            tokenPItemTwo: 'С VTBC token вы можете торговать на бирже Binance DEX',
-            tokenPItemThree: 'Получайте VTBC token через AirDrop',
-            tokenCaptionThree: 'Рыночные данные о VTBC',
+            tokenPBlockOne: 'С помощью TBCС (TBC) Вы можете оплачивать товары в магазинах-партнерах, торговать ими на DEX, использовать в качестве залога на платформах кредитования, а также в программах лояльности и для голосования. TBCC (TBC) работает с протоколом BEP 2 на платформе Binance DEX',
+            tokenPBlockTwo: 'Токен VTBC - это новый цифровой актив, выпущенный TBCC VPN. С токеном VTBC Вы можете торговать на Binance DEX в паре с BNB, использовать его для покупки ключа VPN (для использования приложения TBCC VPN), а также получать его через AirDrop. Он беcперебойно работает с протоколами BEP 8 на Binance DEX.',
+            tokenPBlockThree: 'Основная миссия мини-токена VOTE - дать пользователям возможность участвовать в голосовании. Механизм использования мини-токена VOTE достаточно прост - когда голосование открыто, вам нужно перейти на официальный сайт голосования и отдать свой голос  "за" или "против" при помощи мини токена VOTE.',
             foundedIn: 'Основан в',
             numberOfUsers: 'Количество пользователей',
             tbccCoin: 'Количество покупок TBCC Coin',
@@ -243,8 +237,6 @@ $( document ).ready(function() {
             productsPBlockFour: 'При помощи Маркета Вы можете купить ключи для своего TBCC VPN приложения, премиум-подписку, совершать онлайн-платежи в магазинах-партнерах с помощью карты TBCC.',
             productsPBlockFive: 'Принимайте криптовалютные платежи и пожертвования от ваших онлайн-клиентов.',
             productsPBlockSix: 'Принимайте токены на свой смартфон или планшет в розничном магазине или ресторане',
-            key: 'VPN ключ ',
-            howPBlockFive: 'Внимание: вам необходимо иметь Binance Coin (BNB) на вашем балансе',
             aboutH1: 'TBCC Wallet помогает людям контролировать свое состояние и управлять им',
             aboutPBlockOne: 'В TBCC Wallet мы уделяем внимание каждой детали, от идеальных пиксельных иконок до готовых услуг, создавая криптовалютное приложение, которое будет удобно каждому.',
             aboutCaptionOne: 'Покупайте, участвуйте в торгах, управляйте и обменивайте криптовалюту на своем мобильном телефоне в любое время',
@@ -329,6 +321,9 @@ function setLanguage(dictionary, language)
     $('#textButtonThree').text(dictionary[language].textButtonTwo);
     $('#textButtonFour').text(dictionary[language].textButtonFour);
     $('#textButtonFive').text(dictionary[language].textButtonFive);
+    $('#textButtonSix').text(dictionary[language].textButtonSix);
+    $('#textButtonSeven').text(dictionary[language].textButtonSeven);
+    $('#textButtonEight').text(dictionary[language].textButtonEight);
     $('#mainPBlockThree').text(dictionary[language].mainPBlockThree);
     $('#mainPBlockFour').text(dictionary[language].mainPBlockFour);
     $('#mainH5One').text(dictionary[language].mainH5One);
@@ -347,10 +342,10 @@ function setLanguage(dictionary, language)
     $('#tokenH1').text(dictionary[language].tokenH1);
     $('#tokenH2').text(dictionary[language].tokenH2);
     $('#tokenCaptionOne').text(dictionary[language].tokenCaptionOne);
-    $('#tokenUlBlockOne').text(dictionary[language].tokenUlBlockOne);
-    $('#tokenUlBlockTwo').text(dictionary[language].tokenUlBlockTwo);
-    $('#tokenUlBlockThree').text(dictionary[language].tokenUlBlockThree);
-    $('#tokenUlBlockFour').text(dictionary[language].tokenUlBlockFour);
+    $('#tokenPBlockOne').text(dictionary[language].tokenPBlockOne);
+    $('#tokenPBlockTwo').text(dictionary[language].tokenPBlockTwo);
+    $('#tokenPBlockThree').text(dictionary[language].tokenPBlockThree);
+    $('#tokenPBlockFour').text(dictionary[language].tokenPBlockFour);
     $('#tokenCaptionTwo').text(dictionary[language].tokenCaptionTwo);
     $('#tokenPItemOne').text(dictionary[language].tokenPItemOne);
     $('#tokenPItemTwo').text(dictionary[language].tokenPItemTwo);
